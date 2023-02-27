@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+outline: 1px dotted red;
+
+}
+
+.box{
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
